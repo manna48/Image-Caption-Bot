@@ -1,0 +1,7 @@
+## Kaggle Link
+
+https://www.kaggle.com/shadabhussain/flickr8k
+
+## API Command
+
+kaggle datasets download -d shadabhussain/flickr8k
